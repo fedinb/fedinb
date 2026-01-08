@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Boris
 - 👀 I’m interested in Supply Chain Data Analytics using SQL and Python
-- 🌱 I’m currently learning Tableau and Alteryx
+- 🌱 I’m currently studying Demand Forecasting
 - 📫 You can reach me via fedinb@yahoo.com or my [LinkedIn](https://www.linkedin.com/in/borisfedin/)
 
 <!---
